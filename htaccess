@@ -1,0 +1,2 @@
+ErrorDocument 404 /Terminal files/404.shtml
+ErrorDocument 400 /Terminal files/400.shtml
